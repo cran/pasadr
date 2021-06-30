@@ -1,0 +1,10 @@
+2496991c33cd10c1f56bc36dc3693c21 *DESCRIPTION
+10ab1c7af0236a6eb2590fe173d3d33d *NAMESPACE
+4a3312b29ebd234d16015650232a9819 *R/pasad_test.R
+226348af71200137760930fb3fcfc6b3 *R/pasad_train.R
+4dfee40eab14cd75bcc7e30e0b85ca11 *inst/extdata/da.RData
+a937db9b664b0ed653a155ee3c28b919 *inst/extdata/da.csv
+6cd6b8b0a6d6034388506ac73f315504 *inst/extdata/sa.RData
+886da41cc370fe218583f44314eca302 *inst/extdata/sa.csv
+39256792c6d3cfaf82fd5ddda1eb9ae4 *man/pasad_test.Rd
+5203d31b10a4c460a971c03a5a7a4ea7 *man/pasad_train.Rd
